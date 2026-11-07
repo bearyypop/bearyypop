@@ -28,11 +28,11 @@ I enjoy working on both the creative and technical sides of web development, fro
 
 A fan-made website inspired by Porter Robinson's album *Nurture*. This project explores the album's themes through interactive elements, a dynamic tracklist, and nature-inspired visuals.
 
-### ☕ [The Gentle Pour](https://github.com/bearypopp/Gentle-Pour)
+### ☕ [The Gentle Pour](https://github.com/bearyypop/Gentle-Pour)
 
 A café website inspired by my experience as a barista. I designed and developed the site with custom branding, an interactive product display, and light/dark mode functionality.
 
-### 🐈 [Kuro & Cream](https://github.com/bearypopp/Kuro-and-Cream)
+### 🐈 [Kuro & Cream](https://github.com/bearyypop/Kuro-and-Cream)
 
 My first independently developed multi-page website. This project brought together my love for cats and coffee while helping me build a stronger foundation in HTML and CSS.
 
