@@ -24,7 +24,7 @@ I enjoy working on both the creative and technical sides of web development, fro
 
 ## 📂 Featured Projects
 
-### 🌿 [Nurture](https://github.com/bearypopp/Nurture)
+### 🌿 [Nurture](https://github.com/bearyypop/Nurture)
 
 A fan-made website inspired by Porter Robinson's album *Nurture*. This project explores the album's themes through interactive elements, a dynamic tracklist, and nature-inspired visuals.
 
