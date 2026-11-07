@@ -17,7 +17,7 @@ I enjoy working on both the creative and technical sides of web development, fro
 
 - **Front-End Development:** HTML5, CSS3, JavaScript
 - **Design & Prototyping:** Figma, Canva
-- **Development Tools:** Git, GitHub, Visual Studio Code
+- **Development Tools:** GitHub, Visual Studio Code
 - **Creative Software:** Adobe Photoshop, Adobe Illustrator, Adobe InDesign, Adobe After Effects, Adobe Premiere Pro
 
 ---
