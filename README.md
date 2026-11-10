@@ -47,3 +47,4 @@ Outside of web development, I enjoy playing video games, experimenting with new 
 - **Email:** [kylie.koba@gmail.com](mailto:kylie.koba@gmail.com)
 - **LinkedIn:** [My LinkedIn Profile](linkedin.com/in/kylie-koba-kk1)
 - **GitHub:** [bearypopp](https://github.com/bearypopp)
+- **Website:** [My Website](https://kkoba143b7.myportfolio.com/)
