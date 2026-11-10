@@ -37,7 +37,15 @@ A café website inspired by my experience as a barista. I designed and developed
 My first independently developed multi-page website. This project brought together my love for cats and coffee while helping me build a stronger foundation in HTML and CSS.
 
 ---
+### 🌱 Currently Working On
 
+**The Heirloom** | Senior Cat Café Website
+
+A responsive website focused on raising awareness of senior cat adoption through accessible, user-centered design and interactive features.
+
+**Status:** In Development · Private Repository
+
+---
 ## 🌷 Beyond Coding
 
 Outside of web development, I enjoy playing video games, experimenting with new recipes, spending time with my cats, and picking up creative hobbies whenever something catches my interest.
